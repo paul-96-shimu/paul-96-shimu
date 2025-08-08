@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co.com/HSzKLxy/developer.webp)
+![Banner](https://i.ibb.co.com/6cGpmJxX/Chat-GPT-Image-Aug-8-2025-10-47-48-AM.png)
 
 # 👋 Hi, I'm Shimu Paul
 ### 🌐 Frontend Web Developer  
