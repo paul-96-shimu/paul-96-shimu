@@ -6,7 +6,7 @@
 ---
 
 ## 🧑‍💻 About Me
-Passionate about creating interactive applications and experiences on the web. I love to explore new technologies and currently diving deeper into full-stack development.
+Passionate about creating interactive applications and experiences on the web. I love to explore new technologies and currently diving deeper into Frontend development.
 
 ---
 
