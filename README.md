@@ -11,11 +11,10 @@ Passionate about creating interactive applications and experiences on the web. I
 ---
 
 ## 🚀 Current Activities
-- 🔍 Exploring `Next.js`
-- 🌐 Working on a tourism website
+- 📚 Learning `Next.js` (Frontend Framework)
+- 🎓 Built an Education Management Website (MERN Stack)
 - 📘 Learning advanced backend with `Node.js & MongoDB`
 
----
 
 ## 🛠️ Skills
 <p>
