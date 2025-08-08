@@ -1,7 +1,7 @@
 ![Banner](https://i.ibb.co/9mZR3Q2V/chatgpt-img.png)
 
 # 👋 Hi, I'm Shimu Paul
-### 🌐 Full Stack Web Developer
+### 🌐 Frontend Web Developer  
 
 ---
 
