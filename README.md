@@ -11,9 +11,12 @@ Passionate about creating interactive applications and experiences on the web. I
 ---
 
 ## 🚀 Current Activities
-- 📚 Learning `Next.js` (Frontend Framework)
-- 🎓 Built an Education Management Website (MERN Stack)
-- 📘 Learning advanced backend with `Node.js & MongoDB`
+
+* 📚 Currently learning **Next.js** to build high-performance, SEO-friendly web applications.
+* 🎓 Developed a full-featured **Education Management Platform** using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**.
+* ⚙️ Exploring **Advanced Backend Development** with **Node.js, Express.js, and MongoDB** — focusing on authentication, optimization, and scalability.
+* 🧠 Strengthening state management skills with **Redux Toolkit** and **Context API**.
+
 
 
 ## 🛠️ Skills
